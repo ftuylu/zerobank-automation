@@ -1,0 +1,301 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9055000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "com.zerobank.stepdefinitions.LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-14T22:33:55.573Z",
+        "line": 29,
+        "name": "Navigating  following Account Summary",
+        "description": "",
+        "id": "navigation-menu;navigating--following-\u003cpage\u003e;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 188000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2924000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "the user enter the valid information",
+            "match": {
+              "location": "com.zerobank.stepdefinitions.LoginStepDefs.the_user_enter_the_valid_information()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 593000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "the user navigates to following \"Account Summary\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Account Summary\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdefinitions.NavigationMenuStepDefs.the_user_navigates_to_following(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 426000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "the title should be following \"Zero - Account Summary\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Zero - Account Summary\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinitions.NavigationMenuStepDefs.the_title_should_be_following(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip2"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4047000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "com.zerobank.stepdefinitions.LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-14T22:34:08.904Z",
+        "line": 30,
+        "name": "Navigating  following Account Activity",
+        "description": "",
+        "id": "navigation-menu;navigating--following-\u003cpage\u003e;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 152000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1801000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "the user enter the valid information",
+            "match": {
+              "location": "com.zerobank.stepdefinitions.LoginStepDefs.the_user_enter_the_valid_information()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 906000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "the user navigates to following \"Account Activity\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Account Activity\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdefinitions.NavigationMenuStepDefs.the_user_navigates_to_following(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 462000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "the title should be following \"Zero - Account Activity\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Zero - Account Activity\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinitions.NavigationMenuStepDefs.the_title_should_be_following(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip2"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3627000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "com.zerobank.stepdefinitions.LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-14T22:34:16.320Z",
+        "line": 31,
+        "name": "Navigating  following Account Pay Bills",
+        "description": "",
+        "id": "navigation-menu;navigating--following-\u003cpage\u003e;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 195000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1803000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "the user enter the valid information",
+            "match": {
+              "location": "com.zerobank.stepdefinitions.LoginStepDefs.the_user_enter_the_valid_information()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 938000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "the user navigates to following \"Account Pay Bills\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Account Pay Bills\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdefinitions.NavigationMenuStepDefs.the_user_navigates_to_following(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 485000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "the title should be following \"Zero - Pay Bills\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Zero - Pay Bills\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinitions.NavigationMenuStepDefs.the_title_should_be_following(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip2"
+          }
+        ]
+      }
+    ],
+    "name": "Navigation Menu",
+    "description": "",
+    "id": "navigation-menu",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/NavigationMenu.feature",
+    "tags": []
+  }
+]
