@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9055000000,
+              "duration": 9974000000,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-14T22:33:55.573Z",
+        "start_timestamp": "2020-06-14T23:34:41.768Z",
         "line": 29,
         "name": "Navigating  following Account Summary",
         "description": "",
@@ -32,7 +32,7 @@
         "after": [
           {
             "result": {
-              "duration": 188000000,
+              "duration": 254000000,
               "status": "passed"
             },
             "match": {
@@ -45,7 +45,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2924000000,
+              "duration": 2878000000,
               "status": "passed"
             },
             "line": 24,
@@ -57,7 +57,7 @@
           },
           {
             "result": {
-              "duration": 593000000,
+              "duration": 455000000,
               "status": "passed"
             },
             "line": 25,
@@ -75,7 +75,7 @@
           },
           {
             "result": {
-              "duration": 426000000,
+              "duration": 464000000,
               "status": "passed"
             },
             "line": 26,
@@ -107,7 +107,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4047000000,
+              "duration": 4267000000,
               "status": "passed"
             },
             "line": 4,
@@ -120,7 +120,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-14T22:34:08.904Z",
+        "start_timestamp": "2020-06-14T23:34:56.054Z",
         "line": 30,
         "name": "Navigating  following Account Activity",
         "description": "",
@@ -128,7 +128,7 @@
         "after": [
           {
             "result": {
-              "duration": 152000000,
+              "duration": 178000000,
               "status": "passed"
             },
             "match": {
@@ -141,7 +141,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1801000000,
+              "duration": 3122000000,
               "status": "passed"
             },
             "line": 24,
@@ -153,7 +153,7 @@
           },
           {
             "result": {
-              "duration": 906000000,
+              "duration": 883000000,
               "status": "passed"
             },
             "line": 25,
@@ -171,7 +171,7 @@
           },
           {
             "result": {
-              "duration": 462000000,
+              "duration": 502000000,
               "status": "passed"
             },
             "line": 26,
@@ -203,7 +203,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3627000000,
+              "duration": 3863000000,
               "status": "passed"
             },
             "line": 4,
@@ -216,7 +216,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-14T22:34:16.320Z",
+        "start_timestamp": "2020-06-14T23:35:05.022Z",
         "line": 31,
         "name": "Navigating  following Account Pay Bills",
         "description": "",
@@ -224,7 +224,7 @@
         "after": [
           {
             "result": {
-              "duration": 195000000,
+              "duration": 156000000,
               "status": "passed"
             },
             "match": {
@@ -237,7 +237,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1803000000,
+              "duration": 1760000000,
               "status": "passed"
             },
             "line": 24,
@@ -249,7 +249,7 @@
           },
           {
             "result": {
-              "duration": 938000000,
+              "duration": 1076000000,
               "status": "passed"
             },
             "line": 25,
@@ -267,7 +267,7 @@
           },
           {
             "result": {
-              "duration": 485000000,
+              "duration": 504000000,
               "status": "passed"
             },
             "line": 26,
